@@ -1,5 +1,5 @@
 Start 1 5
-Goal 3 5
+Goal 4 4
 Maze
 1111111
 1000001
